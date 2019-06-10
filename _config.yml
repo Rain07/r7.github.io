@@ -1,14 +1,28 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              RESUME
+bio:                'FPGA: IOT@ARM.EmbeddedSystems'
+description:        "Hi, my name's Ali and I'm a A registered member of IEEE,
+A Embedded System Designer with
++5 years of experience and
+nowadays taking experience
+about <mark>Deep learning</mark> and <mark>Data
+science</mark>. Capable of working
+independently with minimum
+supervision and committed to
+providing high quality service to
+every project, with focus on
+health, safety and environmental
+issues. Professional, capable, and
+motivated individual who consistently
+performs in
+challenging environment"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                rain07.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -38,13 +52,13 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+twitter:            alinoorian02
+#facebook:           username
+github-url:         github.com/rain07
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           username
 #xing:              username
-instagram:          username
+instagram:          aliiinoorian
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -70,7 +84,7 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://github.com/rain07
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
